@@ -7,5 +7,6 @@ function Form(props){
                 <label htmlFor="new-todo-input"></label>
             </h2>
         </form>
+        
     );
 }
